@@ -60,7 +60,7 @@ function App() {
               <AddBlogs/>
           }
         />
-        <Route path="/blog"
+        <Route path="/"
           element={
               <AddDepartmentModal/>
           }
